@@ -28,3 +28,9 @@
 [submodule "libraries/WiFiManager"]
 	path = libraries/WiFiManager
 	url = https://github.com/tzapu/WiFiManager
+[submodule "libraries/NTPClient"]
+	path = libraries/NTPClient
+	url = https://github.com/taranais/NTPClient
+[submodule "libraries/ArduinoJson"]
+	path = libraries/ArduinoJson
+	url = https://github.com/bblanchon/ArduinoJson
