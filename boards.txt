@@ -25,8 +25,8 @@ menu.ssl=SSL Support
 
 ##############################################################
 agrumino_lemonv4.name=Agrumino Lemon v4 (WT8266-S1 Module)
-agrumino_lemonv4.build.board=ESP8266_AGRUMINO
-agrumino_lemonv4.build.variant=lemon
+agrumino_lemonv4.build.board=ESP8266_AGRUMINO_LEMON_V4
+agrumino_lemonv4.build.variant=lemonv4
 agrumino_lemonv4.upload.tool=esptool
 agrumino_lemonv4.upload.maximum_data_size=81920
 agrumino_lemonv4.upload.wait_for_upload_port=true
