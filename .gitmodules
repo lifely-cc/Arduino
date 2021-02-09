@@ -22,3 +22,5 @@
 [submodule "tools/sdk/uzlib"]
 	path = tools/sdk/uzlib
 	url = https://github.com/earlephilhower/uzlib.git
+[submodule "libraries/Agrumino"]
+	url = https://github.com/lifely-cc/Agrumino
