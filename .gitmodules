@@ -24,7 +24,7 @@
 	url = https://github.com/earlephilhower/uzlib.git
 [submodule "libraries/Agrumino"]
 	path = libraries/Agrumino
-	url = https://github.com/MaxPayne86/Agrumino.git
+	url = https://github.com/lifely-cc/Agrumino
 [submodule "libraries/WiFiManager"]
 	path = libraries/WiFiManager
 	url = https://github.com/tzapu/WiFiManager
